@@ -8,4 +8,6 @@
 - JavaFX SDK - 17.0.2
 - JFoenix - 9.0.10
 ## vmArgs Setup
---module-path /path/to/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.medi
+```
+----module-path C:/Users/tolosa/Desktop/Files/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml
+```
