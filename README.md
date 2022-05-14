@@ -1,8 +1,8 @@
 # JavaFXLoginPage🔥🤘🚀
 ## 👉 Sample screenshots taken from the 
-<img src="screenshots/home.png" alt="Home - Screen" width="400"/><br>
-<img src="screenshots/signup.png" alt="signup- Screen" width="400"/><br>
-<img src="screenshots/login.png" alt="logedin - Screen" width="400"/><br>
+<img src="screenshots/photo_2022-05-14_17-25-16.jpg" alt=" - Screen" width="400"/><br>
+<img src="screenshots/photo_2022-05-14_17-25-05.jpg" alt="- Screen" width="400"/><br>
+<img src="screenshots/photo_2022-05-14_17-24-49.jpg" alt=" - Screen" width="400"/><br>
 ## 👉 Requirements
 - JDK - 17.0.2
 - JavaFX SDK - 17.0.2
